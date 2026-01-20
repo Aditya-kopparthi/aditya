@@ -4,3 +4,5 @@ c=a+b
 d=a-b
 print(d)
 print(c)
+e=a*b
+print(e)
