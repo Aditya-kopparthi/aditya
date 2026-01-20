@@ -1,4 +1,6 @@
 a=15
 b=10
 c=a+b
+d=a-b
+print(d)
 print(c)
